@@ -1,5 +1,5 @@
 {
-  "name": "base-express-mvc-project",
+  "name": "ev01-interes-simple-express-mvc",
   "version": "1.0.3",
   "description": "This project is a base example for MVC pattern with Express and Handlebars",
   "scripts": {
